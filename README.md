@@ -17,6 +17,11 @@ change the links in /routes/index.js as:
 var link=["www.link1","http://link2"];
 ```
 
+Enter localhost:3000/brokenlink
+```
+localhost:3000/brokenlink
+```
+
 
 
 ```
